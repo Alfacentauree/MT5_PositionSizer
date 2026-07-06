@@ -1,5 +1,7 @@
 # MT5 Position Sizer Tool
 
+![MT5 Position Sizer Dashboard](screenshot.png)
+
 An advanced, interactive Position Sizer Expert Advisor (EA) for **MetaTrader 5 (MT5)**. It provides a visual, on-chart control panel with draggable lines for Entry, Stop Loss (SL), and Take Profit (TP), automatically calculating the optimal lot size based on your account balance and risk preferences.
 
 ---
