@@ -1,8 +1,3 @@
-//+------------------------------------------------------------------+
-//|                                           MT5_PositionSizer.mq5  |
-//|                                                     Antigravity  |
-//|                                             https://google.com  |
-//+------------------------------------------------------------------+
 #property copyright "Antigravity"
 #property link      "https://google.com"
 #property version   "1.60"
