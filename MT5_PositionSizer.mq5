@@ -1,5 +1,3 @@
-#property copyright "Antigravity"
-#property link      "https://google.com"
 #property version   "1.60"
 #property description "Interactive MT5 Position Sizer with draggable chart lines."
 #property description "Supports Market, Limit, and Stop orders with dynamic Risk/Reward."
